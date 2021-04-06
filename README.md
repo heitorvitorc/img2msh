@@ -1,2 +1,2 @@
 # img2msh
-Creation of computational meshes from 2D images
+Takes an input image and generates a computational mesh through image segmentation. The segmentation process is implemented through the OpenCV library and the mesh construction is performed by the GMSH package. 
